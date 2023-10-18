@@ -1,6 +1,6 @@
 .header {
   /* height: 50px; */
-  background: #039be5;
+  background: #cad0d3;
   /* padding: 3px 5px; */
   /* position: relative; */
 }
@@ -11,7 +11,7 @@ nav {
 
 .hr-animate {
   position: relative;
-	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background: linear-gradient(-45deg, #bfee52, #4052f2, #6ff038, #ec6945);
 	/* background: linear-gradient(to right, #ffffff, #595959, #1e1e1e, #656565); */
 
 	background-size: 400% 400%;

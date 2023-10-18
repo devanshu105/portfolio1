@@ -2,14 +2,7 @@
   position: absolute;
   width: 100%;
   height: 100vh;
-  /* right: 0;
-  margin-right: 10%; */
-  /* object-fit:none; */
-  background-image: url("../../assets/images/background_illus1.svg");
-  /* background-image: url(https://raw.githubusercontent.com/oscicen/oscicen.github.io/master/img/depth-3.png), 
-  /* url("../../assets/images/background_illus.svg") */
-  /* url(https://raw.githubusercontent.com/oscicen/oscicen.github.io/master/img/depth-2.png) */
-  /* , url(https://raw.githubusercontent.com/oscicen/oscicen.github.io/master/img/depth-1.png); */
+  background-image: url("../../assets/images/background_illus12.svg");
   background-size: 40vh auto;
   /* rotate: 4deg; */
   /* transform: rotate(45deg); */

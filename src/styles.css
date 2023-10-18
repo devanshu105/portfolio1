@@ -19,7 +19,7 @@
 
 /*  moving image css*/
 .background {
-  background-image: url("./assets/images/background.png");
+  background-image: url("./assets/images/background.gif");
   content: "";
   /* do hieght : 300%; below is to test */
   position: absolute;
@@ -30,7 +30,7 @@
   background-color: #101010;
   animation-name: grained;
   animation-iteration-count: infinite;
-  animation-duration: 0.5s;
+  animation-duration: 15s;
   animation-timing-function: steps(20);
 }
 .wrapper {

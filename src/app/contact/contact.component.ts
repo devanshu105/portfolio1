@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./cont.component.css']
 })
 export class ContactComponent {
-
+  location = {
+    phoneNumber: +447867068766,
+  }
 }

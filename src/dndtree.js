@@ -1,7 +1,3 @@
-// function name(){
-//     alert("I am Lucifer");
-//   }
-
 function createTree() {
 
 
@@ -14,126 +10,28 @@ function createTree() {
             "name": "interests",
             "children": [
                 {
-                    "name": "art",
+                    "name": "Cooking",
                     "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
+                        { "name": "Indian Food" },
+                        { "name": "Indo-Chinese Food" }
                     ]
                 },
                 {
                     "name": "sports",
                     "children": [
                         {
-                            "name": "design",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
+                            "name": "Cricket",
                         },
-                        {
-                            "name": "painting",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "sports",
-                    "children": [
-                        {
-                            "name": "design",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
-                        },
-                        {
-                            "name": "painting",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
-                        }
                     ]
                 }
                 , {
-                    "name": "sports",
+                    "name": "travelling",
                     "children": [
-                        {
-                            "name": "design",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
-                        },
-                        {
-                            "name": "painting",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
-                        }
-                    ]
+                            {"name": "Exploring nice Food places"},
+                            { "name": "Exploring nice Pubs and Bars" }
+                    ],
                 },
-                {
-                    "name": "sports",
-                    "children": [
-                        {
-                            "name": "design",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
-                        },
-                        {
-                            "name": "painting",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "sports",
-                    "children": [
-                        {
-                            "name": "design",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
-                        },
-                        {
-                            "name": "painting",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "sports",
-                    "children": [
-                        {
-                            "name": "design",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
-                        },
-                        {
-                            "name": "painting",
-                            "children": [
-                                { "name": "design" },
-                                { "name": "painting" }
-                            ]
-                        }
-                    ]
-                }
+                
             ]
         };
 

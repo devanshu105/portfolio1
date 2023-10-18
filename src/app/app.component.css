@@ -17,9 +17,9 @@
 
 .footer {
   height: 20px;
-  background: blue;
+  background: rgb(175, 175, 179);
   padding: 3px 5px;
-  background-image: url("../assets/images/background.png");
+  background-image: url("../assets/images/background.gif");
   content: "ssss";
   background-color: #101010;
 }
